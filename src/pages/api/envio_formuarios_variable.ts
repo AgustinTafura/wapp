@@ -24,7 +24,7 @@ var data = {
   //   language:{ code: 'en_US' },
   // }
   template: {
-    name:'test_variable',
+    name:'envio_formuarios_variable',
     language:{ code: 'es_AR' },
     components: [
       {
@@ -34,10 +34,6 @@ var data = {
               "type": "text",
               "text": "Mi Nombre"
           },
-          {
-            "type": "text",
-            "text": "El Formulario"
-        },
         ]
         }
     //   {
