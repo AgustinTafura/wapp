@@ -12,7 +12,7 @@ export default function handler(
 
   var botId = '101721479587406';
 var phoneNbr = '542244465127';
-var bearerToken = 'EAANlKpBhkj8BAB5ZAa2CyZAfN99vut050882TEEqW6DklLUY23VIreCuZAljmCT0HDRFYQMwoPOKjguc50TLHuKK8gXcuZAZBWekdGCVDeCsUfC0VXP76xzOqy2it6NzZA1Ce80FDVjZA2PmYJWbtFIOsZAb2ZA0rxU1BUE3eyRmJ6ME16igf6gpVMnHfkjVClkUhTzOCUKKgdnAAjsG8nHYr';
+var bearerToken = '';
 
 var url = 'https://graph.facebook.com/v16.0/' + botId + '/messages';
 var data = {
